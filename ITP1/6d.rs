@@ -98,34 +98,4 @@ fn main() {
     }
 }
 
-
-Compile Error Logs:
-
-ステータス
-Judge: 18/18	Rust	CPU: 00:00 sec	Memory: 5048 KB	Length: 1215 B	2018-02-05 00:37
-テストケースの判定結果
-Case #	Verdict	CPU Time	Memory	In	Out	Case Name
-Case #1	: Accepted	00:00	5028	36	6	00_sample_00.in
-Case #2	: Accepted	00:00	5028	36	6	00_sample_01.in
-Case #3	: Accepted	00:00	5032	16	5	01_small_00.in
-Case #4	: Accepted	00:00	5032	12	3	01_small_01.in
-Case #5	: Accepted	00:00	5032	44	9	01_small_02.in
-Case #6	: Accepted	00:00	5036	88	17	01_small_03.in
-Case #7	: Accepted	00:00	5028	8	2	02_corner_00.in
-Case #8	: Accepted	00:00	5028	8	2	02_corner_01.in
-Case #9	: Accepted	00:00	5028	28	6	02_corner_02.in
-Case #10	: Accepted	00:00	5032	14	8	02_corner_03.in
-Case #11	: Accepted	00:00	5032	122	20	03_rand_00.in
-Case #12	: Accepted	00:00	5028	314	26	03_rand_01.in
-Case #13	: Accepted	00:00	5032	1566	100	03_rand_02.in
-Case #14	: Accepted	00:00	5032	4374	240	03_rand_03.in
-Case #15	: Accepted	00:00	5032	1566	100	04_large_00.in
-Case #16	: Accepted	00:00	5032	4374	240	04_large_01.in
-Case #17	: Accepted	00:00	5048	39299	900	05_maximum_00.in
-Case #18	: Accepted	00:00	5048	50508	1000	05_maximum_01.in
-
-< prev |		/		| next >	 		
- 
-Judge Input #  ( | )		Judge Output #  ( | )
-
 */
